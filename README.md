@@ -1,1 +1,3 @@
-# Cloning a Productivity App like Momentum with VanillaJS
+# momentum-clone
+
+Cloning a Productivity App with VanillaJS
